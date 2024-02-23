@@ -1,0 +1,2 @@
+autoscan: warning: missing AC_PROG_CPP wanted by: 
+	Makefile:118
